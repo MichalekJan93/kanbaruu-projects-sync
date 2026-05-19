@@ -2,7 +2,7 @@
 kanbaruuType: "task"
 kanbaruuTaskId: "cmp6fyl6q000f970k96pfhcsp"
 schemaVersion: 1
-title: "Attachment plus button"
+title: "Goals plus button"
 columnId: "cmp5eieg2000lbj0jare31tpb"
 columnName: "Bug"
 priority: "NONE"
