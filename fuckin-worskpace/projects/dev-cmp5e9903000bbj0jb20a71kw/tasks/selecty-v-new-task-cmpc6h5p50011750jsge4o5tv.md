@@ -1,0 +1,16 @@
+---
+kanbaruuType: "task"
+kanbaruuTaskId: "cmpc6h5p50011750jsge4o5tv"
+schemaVersion: 1
+title: "Selecty v new task"
+columnId: "cmp5eieg2000lbj0jare31tpb"
+columnName: "Bug"
+priority: "NONE"
+position: 2000
+startAt: "2026-05-19T05:14:00.855Z"
+endAt: "2026-05-19T05:13:00.000Z"
+tags:
+  - "bug"
+assigneeEmails: []
+goals: []
+---
