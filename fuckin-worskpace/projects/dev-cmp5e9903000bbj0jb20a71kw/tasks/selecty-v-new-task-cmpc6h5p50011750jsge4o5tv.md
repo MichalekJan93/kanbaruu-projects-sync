@@ -8,7 +8,7 @@ columnName: "Bug"
 priority: "NONE"
 position: 62.5
 startAt: "2026-05-19T05:14:00.855Z"
-endAt: "2026-05-19T05:13:00.000Z"
+endAt: "2026-05-20T05:13:00.000Z"
 tags:
   - "bug"
 assigneeEmails: []
