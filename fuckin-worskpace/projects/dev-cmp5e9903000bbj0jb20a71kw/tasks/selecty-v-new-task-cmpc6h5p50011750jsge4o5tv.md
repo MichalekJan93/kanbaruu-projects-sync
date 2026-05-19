@@ -6,7 +6,7 @@ title: "Selecty v new task"
 columnId: "cmp5eieg2000lbj0jare31tpb"
 columnName: "Bug"
 priority: "NONE"
-position: 2000
+position: 62.5
 startAt: "2026-05-19T05:14:00.855Z"
 endAt: "2026-05-19T05:13:00.000Z"
 tags:

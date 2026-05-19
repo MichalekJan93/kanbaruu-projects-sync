@@ -6,7 +6,7 @@ title: "Zmenit screens v guide"
 columnId: "cmp5eieg2000lbj0jare31tpb"
 columnName: "Bug"
 priority: "CRITICAL"
-position: 1000
+position: 187.5
 startAt: "2026-05-15T04:50:16.913Z"
 endAt: null
 tags:
