@@ -16,11 +16,11 @@ assigneeEmails: []
 goals:
   - id: "cmpeaeiwn000per0j27tlr3i8"
     text: "Produce wireframes for key beta screens"
-    completed: false
+    completed: true
     position: 0
   - id: "cmpeaeiwn000qer0ju2976il0"
     text: "Define frontend-backend API contract and data shapes"
-    completed: false
+    completed: true
     position: 1
   - id: "cmpeaeiwn000rer0jbesy31j1"
     text: "Run quick UX review and finalize tweaks"
