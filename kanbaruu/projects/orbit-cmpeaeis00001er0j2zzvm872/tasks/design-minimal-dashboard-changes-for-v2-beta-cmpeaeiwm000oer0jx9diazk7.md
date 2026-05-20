@@ -3,10 +3,10 @@ kanbaruuType: "task"
 kanbaruuTaskId: "cmpeaeiwm000oer0jx9diazk7"
 schemaVersion: 1
 title: "Design minimal dashboard changes for v2 beta"
-columnId: "cmpeaeis00002er0j5h7dgb99"
-columnName: "Backlog"
+columnId: "cmpeaeis00003er0jw3j12wwo"
+columnName: "In Progress"
 priority: "MEDIUM"
-position: 3000
+position: 2000
 startAt: "2026-05-24T00:00:00.000Z"
 endAt: "2026-05-25T23:59:59.999Z"
 tags:

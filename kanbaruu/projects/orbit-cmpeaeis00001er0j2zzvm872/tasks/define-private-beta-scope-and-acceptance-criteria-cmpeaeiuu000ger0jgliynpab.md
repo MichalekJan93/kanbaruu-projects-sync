@@ -15,15 +15,15 @@ assigneeEmails: []
 goals:
   - id: "cmpeaeiuv000her0j3d9deb0b"
     text: "List required features (auth, billing, dashboard) and exclusions"
-    completed: false
+    completed: true
     position: 0
   - id: "cmpeaeiuv000ier0jk2elwbte"
     text: "Define measurable success metrics and SLAs for beta"
-    completed: false
+    completed: true
     position: 1
   - id: "cmpeaeiuv000jer0j0sae4wk6"
     text: "Draft acceptance criteria and test cases for each feature"
-    completed: false
+    completed: true
     position: 2
 ---
 

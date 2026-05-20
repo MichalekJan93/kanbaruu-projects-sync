@@ -3,10 +3,10 @@ kanbaruuType: "task"
 kanbaruuTaskId: "cmpeaeivk000ker0jyzx2kqib"
 schemaVersion: 1
 title: "Audit current auth and billing codepaths"
-columnId: "cmpeaeis00002er0j5h7dgb99"
-columnName: "Backlog"
+columnId: "cmpeaeis00003er0jw3j12wwo"
+columnName: "In Progress"
 priority: "HIGH"
-position: 2000
+position: 1000
 startAt: "2026-05-22T00:00:00.000Z"
 endAt: "2026-05-23T23:59:59.999Z"
 tags:
@@ -16,7 +16,7 @@ assigneeEmails: []
 goals:
   - id: "cmpeaeivl000ler0j526xg284"
     text: "Run dependency and integration review for auth flows"
-    completed: false
+    completed: true
     position: 0
   - id: "cmpeaeivl000mer0jv1mao2cu"
     text: "Test billing edge-cases and reconciliation paths"
