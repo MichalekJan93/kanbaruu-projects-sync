@@ -6,7 +6,7 @@ title: "DnD time"
 columnId: "cmp5eieg2000lbj0jare31tpb"
 columnName: "Bug"
 priority: "HIGH"
-position: 93.75
+position: 62.5
 startAt: "2026-05-19T05:15:33.329Z"
 endAt: null
 tags: []
