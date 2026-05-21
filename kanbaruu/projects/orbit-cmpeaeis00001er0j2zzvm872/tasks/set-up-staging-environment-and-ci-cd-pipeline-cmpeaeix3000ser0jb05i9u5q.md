@@ -6,7 +6,7 @@ title: "Set up staging environment and CI/CD pipeline"
 columnId: "cmpeaeis00002er0j5h7dgb99"
 columnName: "Backlog"
 priority: "CRITICAL"
-position: 4000
+position: 2500
 startAt: "2026-05-26T00:00:00.000Z"
 endAt: "2026-05-27T23:59:59.999Z"
 tags: []
