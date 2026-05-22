@@ -3,15 +3,13 @@ kanbaruuType: "task"
 kanbaruuTaskId: "task_protect_dashboard_routes_auth_guard_01"
 schemaVersion: 1
 title: "Protect dashboard routes with auth guard"
-columnId: "cmpeaeis00003er0jw3j12wwo"
-columnName: "In Progress"
-priority: "MEDIUM"
-position: 500
-startAt: null
-endAt: null
+columnId: "cmpeaeis00002er0j5h7dgb99"
+columnName: "Backlog"
+priority: "HIGH"
+position: 1000
 tags:
-  - "auth"
   - "dashboard"
+  - "auth"
 assigneeEmails: []
 goals: []
 ---
