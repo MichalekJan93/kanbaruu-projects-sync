@@ -3,8 +3,8 @@ kanbaruuType: "task"
 kanbaruuTaskId: "cmpeaeiuu000ger0jgliynpab"
 schemaVersion: 1
 title: "Define private-beta scope and acceptance criteria"
-columnId: "cmpeaeis00004er0jx4xkveuz"
-columnName: "Review"
+columnId: "cmpeaeis00005er0jq7r5pmko"
+columnName: "Done"
 priority: "HIGH"
 position: 1000
 startAt: "2026-05-20T00:00:00.000Z"
