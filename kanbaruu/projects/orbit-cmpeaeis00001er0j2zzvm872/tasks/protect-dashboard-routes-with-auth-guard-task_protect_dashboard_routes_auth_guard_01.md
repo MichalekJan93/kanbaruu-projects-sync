@@ -13,7 +13,8 @@ tags:
   - "auth"
   - "beta"
   - "dashboard"
-assigneeEmails: []
+assigneeEmails:
+  - "hello@kanbaruu.com"
 goals: []
 ---
 
