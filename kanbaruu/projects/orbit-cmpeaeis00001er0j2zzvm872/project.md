@@ -8,19 +8,19 @@ columns:
   - id: "cmpeaeis00002er0j5h7dgb99"
     name: "Backlog"
     iconKey: "backlog"
-    position: 0
+    position: 1000
   - id: "cmpeaeis00003er0jw3j12wwo"
     name: "In Progress"
     iconKey: "in_progress"
-    position: 1
+    position: 2000
   - id: "cmpeaeis00004er0jx4xkveuz"
     name: "Review"
     iconKey: "review"
-    position: 2
+    position: 3000
   - id: "cmpeaeis00005er0jq7r5pmko"
     name: "Done"
     iconKey: "done"
-    position: 3
+    position: 4000
 tags:
   - id: "cmpeaeity0009er0jbbcpfmq5"
     name: "auth"
