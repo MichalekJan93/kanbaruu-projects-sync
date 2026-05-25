@@ -5,14 +5,16 @@ schemaVersion: 1
 title: "Protect dashboard routes with auth guard"
 columnId: "cmpeaeis00002er0j5h7dgb99"
 columnName: "Backlog"
-priority: "HIGH"
+priority: "CRITICAL"
 position: 1250
-startAt: null
-endAt: null
+startAt: "2026-05-26T05:13:00.000Z"
+endAt: "2026-05-29T05:13:00.000Z"
 tags:
   - "auth"
+  - "beta"
   - "dashboard"
-assigneeEmails: []
+assigneeEmails:
+  - "hello@kanbaruu.com"
 goals: []
 ---
 
