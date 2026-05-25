@@ -6,10 +6,12 @@ title: "Protect dashboard routes with auth guard"
 columnId: "cmpeaeis00002er0j5h7dgb99"
 columnName: "Backlog"
 priority: "HIGH"
-position: 1000
+position: 1250
+startAt: null
+endAt: null
 tags:
-  - "dashboard"
   - "auth"
+  - "dashboard"
 assigneeEmails: []
 goals: []
 ---
